@@ -1,3 +1,6 @@
+
+This is build with SpringBoot STS editor
+
 This example makes use of mocito framework for unittesting with log4j.
  
 The main concept is to mock the external dependent object as mock object and test the class.
